@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="support-core-utils-24.2.0">
+    <CLASSES>
+      <root url="jar://E:/1AS_SDK/androidstudiosdk/.android/build-cache/8f17d02c5aba20fa71de9b39f373e7756b820cf6/output/jars/classes.jar!/" />
+      <root url="file://E:/1AS_SDK/androidstudiosdk/.android/build-cache/8f17d02c5aba20fa71de9b39f373e7756b820cf6/output/res" />
+      <root url="jar://E:/1AS_SDK/androidstudiosdk/.android/build-cache/8f17d02c5aba20fa71de9b39f373e7756b820cf6/output/jars/libs/internal_impl-24.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/AS_SDK2/androidstudiosdks/extras/android/m2repository/com/android/support/support-core-utils/24.2.0/support-core-utils-24.2.0-sources.jar!/" />
+      <root url="jar://E:/AS_SDK2/androidstudiosdks/extras/android/m2repository/com/android/support/support-core-utils/24.2.0/support-core-utils-24.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
