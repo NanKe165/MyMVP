@@ -164,10 +164,6 @@ public abstract class BaseActivity<T extends BasePresenterI, V> extends AutoLayo
         }
     }
 
-
-
-
-
     @Override
     public void onReload() {
 
